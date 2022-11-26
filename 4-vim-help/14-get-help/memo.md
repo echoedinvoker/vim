@@ -24,7 +24,7 @@
 
 ![Alt check topic you don't understand2](pic/17179151962271.jpg)
 
-![Alt ctrl+]](pic/17179151962272.jpg)
+![Alt ](pic/17179151962272.jpg)
 
 ![Alt result same](pic/17179151962273.jpg)
 
