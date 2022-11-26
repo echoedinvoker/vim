@@ -38,6 +38,8 @@
 
 ![Alt ctrl+w twice](pic/17179151962276.jpg)
 
+- If you want to move the cursor from the text window to the help window, the same command is used.
+
 ## **If you forgot full command name**
 
 ![Alt ctrl+d](pic/17179151962277.jpg)
@@ -48,8 +50,12 @@
 
 ![Alt wildmenu](pic/17179151962279.jpg)
 
+- The menu called out using "tap" is actually a SET called 'wildmenu'.
+
 ![Alt wildmenu detail explain](pic/17179151962280.jpg)
 
 ![Alt :set nowildmenu](pic/17179151962281.jpg)
+
+- Note that the SETs we change here will only have an effect in this edit, and the subsequent lecture will teach how to make the changed SETs permanent.
 
 ![Alt tap without wildmenu](pic/17179151962282.jpg)
