@@ -4,6 +4,8 @@
 
 ![Alt already cutting](pic/02.jpg)
 
+- default register = unnamed register.
+
 # **_Delete & Put_**
 
 ## **Move a line**
@@ -13,6 +15,8 @@
 ![Alt cut down line a](pic/04.jpg)
 
 ## **Switch lines**
+
+> Commonly used, can remember keys directly.
 
 ![Alt switch line b](pic/05.jpg)
 
@@ -27,6 +31,8 @@
 ## **Switch char**
 
 ### _single_
+
+> Commonly used, can remember keys directly.
 
 ![Alt switch char b](pic/09.jpg)
 
