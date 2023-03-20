@@ -48,6 +48,8 @@
 
 ## **Case**
 
+### _~_
+
 ![Alt uppercase a char](pic/21.jpg)
 
 ![Alt ~](pic/22.jpg)
@@ -59,6 +61,8 @@
 ![Alt upper whole line](pic/25.jpg)
 
 ![Alt g~$ g~~](pic/26.jpg)
+
+### _Uu_
 
 ![Alt uppercase a word](pic/27.jpg)
 
