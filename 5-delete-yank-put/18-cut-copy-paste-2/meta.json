@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "vim",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/vim/blob/master/5-delete-yank-put/18-cut-copy-paste-2/memo.md",
     "course": "Vim Masterclass",
     "chapter": "5. Delete, Yanking, and Putting",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "18. Cut, Copy and Paste - Part 2 - Registers",
+    "video.length": 11,
+    "time.comsuming": 52,
     "lecturer.name.first": "Jason",
     "lecturer.name.last": "Cannon",
-    "register.time": "",
+    "register.time": "2023-03-19T12:56:18Z",
     "tag": [
-      "vim"
+      "vim","register","named","numbered","default"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/vim-commands-cheat-sheet/learn/lecture/6452628#overview",
+    "description": "Intro of various registers."
   }
 
