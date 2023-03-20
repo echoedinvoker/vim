@@ -28,15 +28,25 @@
 
 ## **Replace**
 
+### _R_
+
+> Pressing R will enter replace mode, which will overwrite any word in this mode.
+
 ![Alt replace whole line](pic/13.jpg)
 
 ![Alt R](pic/14.jpg)
+
+### _r_
+
+> Replaces only one word and automatically returns to normal mode.
 
 ![Alt change a word n a char](pic/15.jpg)
 
 ![Alt R r](pic/16.jpg)
 
 ## **Change**
+
+> When the length of the string we are replacing is different, we usually do not use replace but change.
 
 ![Alt change from middle to end](pic/17.jpg)
 
@@ -49,6 +59,8 @@
 ## **Case**
 
 ### _~_
+
+> Switching fonts case.
 
 ![Alt uppercase a char](pic/21.jpg)
 
@@ -63,6 +75,8 @@
 ![Alt g~$ g~~](pic/26.jpg)
 
 ### _Uu_
+
+> U = uppercase, u = lowercase
 
 ![Alt uppercase a word](pic/27.jpg)
 
@@ -88,7 +102,11 @@
 
 ![Alt join two lines without space](pic/37.jpg)
 
+- As shown above, the normal join will automatically add spaces.
+
 ![Alt gJ](pic/38.jpg)
+
+- When no space is needed, an additional 'g' is required.
 
 ![Alt join three lines](pic/39.jpg)
 
